@@ -1,0 +1,9 @@
+package com.basicsstrong.lambda;
+
+public interface ValidFunInterface1 {
+	
+	public void method1();
+	
+	
+
+}
